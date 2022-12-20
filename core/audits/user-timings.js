@@ -42,7 +42,7 @@ class UserTimings extends Audit {
       requiredArtifacts: ['traces'],
     };
   }
-
+ 
   /**
    * @return {Array<string>}
    */
